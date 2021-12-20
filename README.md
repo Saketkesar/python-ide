@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me prorhammercode.com
+- 📫 How to reach me https://bit.ly/3J0qQCS
+
 
 <!---
 Saketkesar/Saketkesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
